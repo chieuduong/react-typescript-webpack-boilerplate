@@ -1,0 +1,60 @@
+{
+  "general": {
+    "title": "RTW",
+    "description": "Bản mẫu : RTW",
+    "search": "Tìm kiếm...",
+    "language": {
+      "english": "Tiếng Anh",
+      "vietnam": "Tiếng Việt"
+    }
+  },
+  "sidebar": {
+    "home": "Trang chủ",
+    "employees": "Nhân viên",
+    "styleguide": "Hướng dẫn tạo kiểu",
+    "listing": "Danh sách",
+    "algorithm": "Thuật toán"
+  },
+  "employees": {
+    "title": "CRA - Nhân viên",
+    "form": {
+      "create": "Thêm nhân viên",
+      "edit": "Cập nhật nhân viên",
+      "employeeName": "Tên nhân viên",
+      "role": "Vị trí",
+      "address": "Địa chỉ",
+      "add": "Thêm",
+      "update": "Cập nhật"
+    },
+    "table": {
+      "header": {
+        "id": "Mã số",
+        "photo": "Hình ảnh",
+        "employeeName": "Tên nhân viên",
+        "role": "Vị trí",
+        "address": "Địa chỉ"
+      }
+    }
+  },
+  "styleguide": {
+    "title": "Hướng dẫn tạo kiểu :RTW",
+    "content": {
+      "grid": "1. Chia cột",
+      "buttons": "2. Nút",
+      "tag": "3. Nhãn",
+      "loading": "4. Loading",
+      "typo": "5. Kiểu chữ",
+      "table": "6. Bảng"
+    }
+  },
+  "algorithm": {
+    "menu": {
+      "list": "Danh sách thuật toán"
+    }
+  },
+  "yup": {
+    "errors": {
+      "required": "Khung nhập không được để trống."
+    }
+  }
+}

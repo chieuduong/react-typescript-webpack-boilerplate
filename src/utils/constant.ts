@@ -1,0 +1,4 @@
+export const COMMON = {
+  ACCESS_TOKEN: 'ACCESS_TOKEN',
+  USER_PROFILE: 'USER_PROFILE',
+}

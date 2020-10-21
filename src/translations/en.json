@@ -1,0 +1,60 @@
+{
+  "general": {
+    "title": "RTW Template",
+    "description": "Boilerplate : React - Typescript - Webpack",
+    "search": "Search...",
+    "language": {
+      "english": "English",
+      "vietnam": "Vietnamese"
+    }
+  },
+  "sidebar": {
+    "home": "Home",
+    "employees": "Employees",
+    "styleguide": "Styleguide",
+    "listing": "Listing",
+    "algorithm": "Algorithm"
+  },
+  "employees": {
+    "title": "RTW - Employee list",
+    "form": {
+      "create": "Employee creation",
+      "edit": "Employee edition",
+      "employeeName": "Employee Name",
+      "role": "Role",
+      "address": "Address",
+      "add": "Add",
+      "update": "Update"
+    },
+    "table": {
+      "header": {
+        "id": "ID",
+        "photo": "Photo",
+        "employeeName": "Employee Name",
+        "role": "Role",
+        "address": "Address"
+      }
+    }
+  },
+  "styleguide": {
+    "title": "Styleguide : RTW",
+    "content": {
+      "grid": "1. Columns",
+      "buttons": "2. Buttons",
+      "tag": "3. Tags",
+      "loading": "4. Loading",
+      "typo": "5. Typography",
+      "table": "6. Table"
+    }
+  },
+  "algorithm": {
+    "menu": {
+      "list": "List algorithm"
+    }
+  },
+  "yup": {
+    "errors": {
+      "required": "The input should not empty."
+    }
+  }
+}
